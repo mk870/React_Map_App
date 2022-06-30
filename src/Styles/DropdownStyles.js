@@ -33,6 +33,6 @@ export const DropdownStyles = styled.div`
     transform: translate(1px, 57px);
   }
   @media (max-width:350px) {
-    transform: translate(1px, 75px);
+    transform: translate(1px, 56px);
   }
 `

@@ -43,7 +43,7 @@ export const MapstyleDropdownStyles = styled.div`
     transform: translate(-106px, -29px);
   }
   @media (max-width:350px) {
-    transform: translate(-106px, -46px);
+    transform: translate(-106px, -26px);
   }
 
 `

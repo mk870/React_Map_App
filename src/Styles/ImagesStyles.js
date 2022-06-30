@@ -40,6 +40,7 @@ export const ImageStyles = styled.div`
       min-width:100px;
       max-height:180px;
       max-width:200px;
+      margin-bottom:5px;
       &:hover{
         box-shadow: 0 0 25px white;
       }
@@ -48,7 +49,14 @@ export const ImageStyles = styled.div`
   }
   @media (max-width:460px) {
      .cities{
-       grid-gap:5px;
+      grid-template-columns: 1fr 1fr;
+      grid-gap:15px;
+     }
+     .city{
+      &>img{
+        height:110px;
+        width:130px;
+      }
      }
    }
 `

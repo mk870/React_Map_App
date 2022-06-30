@@ -10,10 +10,7 @@ export const NavbarStyles = styled.nav`
   right: 0;
   top:0;
   overflow-x: hidden;
-  @media (max-width:560px) {
-    flex-direction:column;
-    align-items:center;
-  }
+  
   .logo{
     display: flex;
     flex-direction:row;
@@ -33,8 +30,9 @@ export const NavbarStyles = styled.nav`
     justify-content:space-between;
     align-items: center;
     color:white;
+    width:380px;
     &>span{
-      margin-left:1em;
+      padding:1em 2.5em;
       cursor: pointer;
       padding: 10px;
       border-radius: 10px;
@@ -46,5 +44,13 @@ export const NavbarStyles = styled.nav`
         background-color: #3d4f7c;
     }
   }
-  
+  }
+  @media (max-width:590px) {
+    flex-direction:column;
+    align-items:center;
+    .info{
+      width:95%;
+      
+    }
+  }
 `

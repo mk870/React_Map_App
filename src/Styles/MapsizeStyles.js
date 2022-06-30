@@ -39,6 +39,6 @@ export const MapsizeStyles = styled.div`
     transform: translate(-90px, -29px);
   }
   @media (max-width:350px) {
-    transform: translate(-90px, -47px);
+    transform: translate(-90px, -36px);
   }
 `
