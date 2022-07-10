@@ -1,5 +1,5 @@
 # React Map App (NextGenMaps) 
-<img src="https://i.ibb.co/cCyzBFd/Next-Gen-Maps.png" alt="Next-Gen-Maps" border="0">
+<img src="https://i.ibb.co/ByGb3HJ/Next-Gen-Maps.png" alt="Next-Gen-Maps" border="0">
 This application allows a user to find directions, distance and different types of maps of any location on the globe.
 
 ## **Project Summary**
