@@ -47,7 +47,7 @@ After Displaying the map, the user can mapulate the map on the settings dropdown
 
 ### **Map Directions**
 ***
-* Used mapbox-directions to give the user the ability to search 2 places and get directions including distance,time taken to travel given 3 modes of transport(driving,walking and cycling) and traffic.  
+* Used mapbox-directions to give the user the ability to search 2 places and get directions including distance,time taken to travel given 3 modes of transport(driving, walking and cycling) and traffic.  
 <img src="https://i.ibb.co/kyKjhBq/Next-Gen-Maps-5.png" alt="Next-Gen-Maps-5" border="0">
 
 ### **Productionization**
